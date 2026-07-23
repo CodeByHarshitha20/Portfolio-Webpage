@@ -1,2 +1,15 @@
-# Portfolio-Webpage
-A responsive personal portfolio website built with HTML and CSS to showcase my skills, projects, and web development journey.
+🌐 Personal Portfolio Website
+A responsive personal portfolio website built using **HTML5** and **CSS3** to showcase my skills, projects, and web development journey.
+I posted my final project to here as well: https://codepen.io/skbgdqqk-the-lessful/pen/RNKBxGm
+🚀 Features
+- Responsive Design
+- About Me
+- Skills
+- Projects
+- Contact
+🛠️ Technologies Used
+- HTML5
+- CSS3
+👩‍💻 Author:Harshitha H
+- GitHub: https://github.com/codebyharshitha20
+- LinkedIn: https://www.linkedin.com/in/harshitha-h-3bb683373/
